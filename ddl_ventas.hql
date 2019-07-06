@@ -1,3 +1,7 @@
 --creacion y¿tabla
 
-create table 
+create table usuarios (
+	idsuario int,
+	
+
+)
